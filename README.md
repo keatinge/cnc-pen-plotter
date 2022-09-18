@@ -5,8 +5,9 @@ a stationary piece of paper. I wanted to write up this post to share
 the project with others and document some of the challenges I faced along
 the way.
 
+See the full video of this drawing on [youtube](https://www.youtube.com/watch?v=WrL_JVUyAlU&t=5s).
+
 ![](./images/tiger-draw.gif)
-(See the full video of this drawing on [youtube](https://www.youtube.com/watch?v=WrL_JVUyAlU&t=5s))
 
 
 ## Results

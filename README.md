@@ -89,11 +89,17 @@ parts, even if they weren't perfect (and many weren't).
 
 
 ## Electronics 
-![](./images/electronics.jpg)
-
-Despite the rat's nest of wires, the electronics are mostly straightforward.
 There are two stepper motor drivers, two switches, and one servo connected to
 an Arduino Uno.
+
+Here's a diagram of the circuit I made (also created with Fusion 360):
+
+![](./images/schematic.png)
+
+And this is what that looks like wired up on a breadboard:
+
+![](./images/electronics.jpg)
+
 
 ### Stepper Motor Drivers
 The stepper motor drivers are an "A4988" chip, which makes running a stepper motor

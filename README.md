@@ -38,10 +38,10 @@ Here's a few of the highlights:
 
 
 ### Pen Holder
-By far the most complex is the pen holder, this is the part that moves the pen up and
+The most complex part (by far) is the pen holder, this is the part that moves the pen up and
 down. A rubber-band pulls the pen down, which gives it enough pressure to write 
 on the paper (otherwise it just glides along on top of the paper without leaving any
-ink). A cam and follower mechanism allows the Servo to raise the pen ~5mm above the
+ink). A cam and follower mechanism allows the servo to raise the pen ~5mm above the
 paper.
 
 ![](./images/fusion_360_pen_holder_left.png)
@@ -162,7 +162,7 @@ which either steps one motor, both motors, or no motors at each iteration.
 Sophisticated CNC software will also prevent jerkiness by carefully controlling
 the acceleration, which I didn't end up implementing to save time, but this is
 definitely something I want to explore in a version 2. Instead I have to run the
-relatively slowly to prevent it from knocking itself out of alignment.
+plotter relatively slowly to prevent it from knocking itself out of alignment.
 
 ### Generating G-Code
 
@@ -274,8 +274,7 @@ the components I designed earlier on are not perfectly aligned.
 ## Conclusion
 I learned a ton from this project and am reasonably happy with how the result turned out. 
 It was a really magical moment seeing it draw an actual picture for the first time after
-spending weeks designing and printing every component without knowing if it would
-work.
+spending weeks designing and 3D-printing every component.
 
 I'm also really glad to have spent the time learning how to use CAD software.
 Being able to design and 3D print plastic parts is going to unlock
